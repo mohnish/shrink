@@ -1,6 +1,6 @@
 {
   "name": "shrink",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Shrink your image sizes. Save bandwidth and serve images faster",
   "main": "index.js",
   "scripts": {
