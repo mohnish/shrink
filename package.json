@@ -1,6 +1,6 @@
 {
   "name": "shrink",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Shrink your image sizes. Save bandwidth and serve images faster",
   "main": "index.js",
   "scripts": {
@@ -22,9 +22,14 @@
   "homepage": "https://github.com/mohnish/shrink#readme",
   "dependencies": {
     "commander": "^2.15.1",
-    "guetzli": "^1.0.1"
+    "guetzli": "^1.0.1",
+    "imagemin": "^5.3.1",
+    "imagemin-guetzli": "^1.0.0"
   },
   "devDependencies": {
     "jest": "^22.4.3"
+  },
+  "bin": {
+    "shrink": "./index.js"
   }
 }
