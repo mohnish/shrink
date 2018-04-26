@@ -1,36 +1,3 @@
-# Shrink
-> Shrink the size of your images
-
-The project is *WIP*. It'll be updated to include the API docs and steps needed during development.
-
-## Installation
-
-```bash
-npm i -g shrink
-```
-
-## Usage
-
-- TODO
-
-## Development
-
-- TODO
-
-## Test
-
-- TODO
-
-## TODO
-
-- [ ] Add tests
-- [ ] Add docs
-- [ ] Add support for multiple image compression bins
-- [ ] Add support for directories
-- [ ] Clean up API to make it easier to use `shrink`
-
-## License
-
 (The MIT License)
 
 Copyright (c) 2018 Mohnish Thallavajhula &lt;hi@iam.mt&gt;
